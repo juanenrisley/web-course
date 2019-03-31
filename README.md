@@ -1,2 +1,2 @@
-# web-course
+# Web course
 Web course resources.
