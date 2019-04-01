@@ -1,4 +1,6 @@
 # Interesting links
+* Visual studio code Windows shortcuts: https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
+* Visual studio code MacOS shortcuts: https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
 * Free programming books: https://goalkicker.com/
 * W3C validador html: https://validator.w3.org/
 * W3C validador css: https://jigsaw.w3.org/css-validator/
