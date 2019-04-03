@@ -8,3 +8,4 @@
 * All about CSS: https://css-tricks.com
 * CSS selectors: https://css4-selectors.com/selectors/
 * CSS Autoprefixer: https://autoprefixer.github.io/
+* Tecnology compatibilities: https://caniuse.com/
