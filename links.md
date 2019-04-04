@@ -9,3 +9,4 @@
 * CSS selectors: https://css4-selectors.com/selectors/
 * CSS Autoprefixer: https://autoprefixer.github.io/
 * Tecnology compatibilities: https://caniuse.com/
+* Flexbox practise: https://flexboxfroggy.com/ or http://www.flexboxdefense.com/
