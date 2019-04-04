@@ -8,5 +8,5 @@
 * All about CSS: https://css-tricks.com
 * CSS selectors: https://css4-selectors.com/selectors/
 * CSS Autoprefixer: https://autoprefixer.github.io/
-* Tecnology compatibilities: https://caniuse.com/
+* Technology compatibilities: https://caniuse.com/
 * Flexbox practice: https://flexboxfroggy.com/ or http://www.flexboxdefense.com/
